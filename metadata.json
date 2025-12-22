@@ -1,0 +1,8 @@
+{
+  "name": "SoulSound",
+  "description": "An elegant AI-powered caption generator for musicians. Paste your Suno or SoundCloud links to get poetic, high-conversion social media captions that resonate with your audience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
