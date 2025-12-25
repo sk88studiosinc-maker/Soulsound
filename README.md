@@ -1,4 +1,5 @@
-# SoulSound
+# SoulSound  
+*A privacy-first, emotion-centered music platform for deep listening.*
 
 **SoulSound** is a privacy-first, emotion-centered music platform designed to support deep listening, creative expression, and meaningful artistic growth — without algorithmic pressure, vanity metrics, or performative social mechanics.
 
