@@ -6,6 +6,14 @@
 This repository contains the MVP implementation and architectural foundation for SoulSound.
 
 ---
+## 🚧 Project Status
+
+SoulSound is in early MVP development.
+
+I’m currently seeking:
+- Thoughtful feedback from developers
+- Architecture discussion
+- Potential collaborators aligned with intentional, ethical product design
 
 ## 🌌 Mission
 
