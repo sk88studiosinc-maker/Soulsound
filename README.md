@@ -10,10 +10,12 @@ This repository contains the MVP implementation and architectural foundation for
 
 SoulSound is in early MVP development.
 
-I’m currently seeking:
-- Thoughtful feedback from developers
-- Architecture discussion
-- Potential collaborators aligned with intentional, ethical product design
+This repository defines the intentional scope, philosophy, and architecture of the initial release.
+
+The project is currently open to:
+- Developer feedback
+- System design discussion
+- Aligned collaborators who value privacy-first, non-extractive platforms
 
 ## 🌌 Mission
 
