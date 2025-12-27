@@ -27,6 +27,30 @@ The platform prioritizes:
 - Meaning over metrics
 
 ---
+## Quick Start (Developers)
+
+This repository currently serves as an early-stage prototype and vision reference.
+If you’d like to explore or extend the code locally:
+
+### Requirements
+- Node.js (LTS recommended)
+- npm or yarn
+
+### Setup
+
+1. Clone the repository  
+   `git clone https://github.com/sk88studiosinc-maker/Soulsound.git`
+
+2. Navigate into the project folder  
+   `cd Soulsound`
+
+3. Install dependencies  
+   `npm install`
+
+4. Run the development server  
+   `npm run dev`
+
+This will start a local development environment for exploration and contribution.
 
 ## 🧭 Core Philosophy
 
