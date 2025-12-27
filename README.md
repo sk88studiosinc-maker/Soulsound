@@ -1,6 +1,7 @@
 
 
 <img width="1024" height="1536" alt="1000000969" src="https://github.com/user-attachments/assets/48f76550-5753-4346-ba88-6bc816a06b5c" />
+
 # SoulSound  
 *A privacy-first, emotion-centered music platform for deep listening.*
 
