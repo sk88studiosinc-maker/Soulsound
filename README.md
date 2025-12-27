@@ -52,6 +52,8 @@ If you’d like to explore or extend the code locally:
 
 This will start a local development environment for exploration and contribution.
 
+SoulSound is evolving in public — thoughtful contributions and respectful feedback are welcome.
+
 ## 🧭 Core Philosophy
 
 - No algorithmic manipulation
